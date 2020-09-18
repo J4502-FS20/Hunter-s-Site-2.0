@@ -1,0 +1,8 @@
+img {width: 300px;}
+body {background-color: grey; text-align: center;}
+nav {text-align: left; text-align: center;font-family: 'Josefin Sans', sans-serif;}
+nav a { display: inline-block; padding: 3px; border-radius: 2px;background: #c63515; color: white;}
+button {background: #c63515; border-radius: 2px; font-size: 10px; width: 250px; color: black; font-family: 'Halant', serif; padding: 10px 20px;}
+h1 {font-family: 'Montserrat', sans-serif;}
+h2 {font-family: 'Montserrat', sans-serif; margin-top: -3px;}
+h3 {font-family: 'Montserrat', sans-serif;}
